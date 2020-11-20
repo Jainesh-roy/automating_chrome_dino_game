@@ -10,3 +10,7 @@ to automate the chrome dino game follow the steps:
 4. the game will run on its own
 
 i hope you like it 
+
+
+
+# most importantly download all the modules needed
